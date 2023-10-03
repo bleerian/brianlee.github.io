@@ -4,9 +4,8 @@ layout: default
 ---
 
 <div id="twosided">
-    <div id="left" style="float: left; max-width: 30%; padding: 10px;">
-        <img src="images/brian_headshot.JPG" style="border-radius: 50%; width: 100%; height: auto; display: block; border: 2px solid #000;" />
-    </div>
+<div id="left" style="float: left; max-width: 30%;border: 10px">
+    <img src="images/brian_headshot.JPG" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
 <p> <b>Brian Lee, Graduate Student</b> <br> <em>Research Assistant</em> </p>
