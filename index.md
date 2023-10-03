@@ -25,15 +25,13 @@ Upon graduating from Texas A&M, I worked as an organic chemist at [American Bioc
 
 <h2>Publication</h2>
 
-<p><a id="LiVillaDuricEtAl22"></a>
+<p>
 
 Li, C.; Lee, B.; Wang, C.; Bajpayee, A.; Douglas, L. D.; Phillips, B. K.; Yu, G.; Rivera-Gonzalez,
 N.; Peng, B.; Jiang, Z.; Sue, H.-J.; Banerjee, S.; Fang, L.
  <b>Photopolymerized Superhydrophobic
 Hybrid Coating Enabled by Dual-Purpose Tetrapodal ZnO for Liquid/Liquid Separation.</b>.
-<em>Materials Horizons, 2022</em>,
-  [https://doi.org/10.1039/d1mh01672e](https://doi.org/10.1039/d1mh01672e).
-
+<em>Materials Horizons, 2022</em>,[https://doi.org/10.1039/d1mh01672e
 
 </p>
 
