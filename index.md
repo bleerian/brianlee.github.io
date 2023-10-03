@@ -8,10 +8,10 @@ layout: default
     <img src="images/brian_headshot.JPG" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Brian Lee, Graduate Student</b> <br> <em>Research Assistant</em> </p>
+<p> <b>Briana;ldsfaj;lsk Lee, Graduate Student</b> <br> <em>Research Assistant</em> </p>
 <p> <a href="https://wangmaterialsgroup.com/" target="blank">Texas Materials Institute</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
-<p> <a href="files/brianlee_cv.pdf">Curriculum vitae </a> </p>
+<p> <a href="files/brianlee_cv.pdf">CV </a> </p>
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
