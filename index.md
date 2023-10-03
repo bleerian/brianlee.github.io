@@ -4,11 +4,12 @@ layout: default
 ---
 
 <div id="twosided">
-<div id="left" style="float: left; max-width: 30%;border: 10px"> 
-    <img src="images/brian_headshot.JPG" />
+    <div id="left" style="float: left; max-width: 30%; padding: 10px;">
+        <img src="images/brian_headshot.JPG" style="border-radius: 50%; width: 100%; height: auto; display: block; border: 2px solid #000;" />
+    </div>
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Briana;ldsfaj;lsk Lee, Graduate Student</b> <br> <em>Research Assistant</em> </p>
+<p> <b>Brian Lee, Graduate Student</b> <br> <em>Research Assistant</em> </p>
 <p> <a href="https://wangmaterialsgroup.com/" target="blank">Texas Materials Institute</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
 <p> <a href="files/brianlee_cv.pdf">CV </a> </p>
