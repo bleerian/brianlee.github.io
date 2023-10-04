@@ -16,7 +16,7 @@ layout: default
 </div>
 <div id="clearer" style="clear: both"> </div>
 
-I joined the [University of Texas at Austin](https://utexas.edu) Fall of 2022 to pursue my PhD in Materials Science and Engineering, where I am studying defect complexes using computational methods with [Prof. Wennie Wang](https://www.che.utexas.edu/people/faculty/wang) as my principal advisor
+I joined the [University of Texas at Austin](https://utexas.edu) Fall of 2022 to pursue my PhD in Materials Science and Engineering, where I am studying defect complexes using computational methods with [Prof. Wennie Wang](https://www.che.utexas.edu/people/faculty/wang) as my principal advisor.
 
 I obtained my BS in Chemistry from [Texas A&M University](http://tamu.edu/) in December 2021, where I researched under [Prof. Lei Fang in the Department of Chemistry](https://www.chem.tamu.edu/rgroup/fang/), working on superhydrophobic materials.
 
@@ -36,7 +36,7 @@ Li, C.; Lee, B.; Wang, C.; Bajpayee, A.; Douglas, L. D.; Phillips, B. K.; Yu, G.
 N.; Peng, B.; Jiang, Z.; Sue, H.-J.; Banerjee, S.; Fang, L.
  <b>Photopolymerized Superhydrophobic
 Hybrid Coating Enabled by Dual-Purpose Tetrapodal ZnO for Liquid/Liquid Separation.</b>.
-<em>Materials Horizons, 2022</em>,[https://doi.org/10.1039/d1mh01672e
+<em>Materials Horizons, 2022</em>, https://doi.org/10.1039/d1mh01672e
 
 </p>
 
